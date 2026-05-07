@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell *)",
+      "Bash(python -c \"import olefile; print\\('olefile available'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(python *)",
+      "PowerShell(python \"C:\\\\Users\\\\filk2\\\\Desktop\\\\공부자료\\\\학교수업\\\\화공산\\\\generate_hwp_v2.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\filk2\\\\Desktop\\\\공부자료\\\\학교수업\\\\화공산\\\\test_table.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\filk2\\\\Desktop\\\\공부자료\\\\학교수업\\\\화공산\\\\test_multi_table.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\filk2\\\\Desktop\\\\공부자료\\\\학교수업\\\\화공산\\\\hwp_to_pdf.py\")"
+    ]
+  }
+}
